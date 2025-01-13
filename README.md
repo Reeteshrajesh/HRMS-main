@@ -14,7 +14,7 @@ This repository contains an HRM (Human Resource Management) system designed as a
 
 ## Technologies Used
 
-- **MERN Stack:** 
+- **MERN Stack:**
   - **MongoDB**: For scalable database management.
   - **Express.js**: Server-side framework for building APIs.
   - **React**: Front-end library for a dynamic user interface.
@@ -40,5 +40,4 @@ This repository contains an HRM (Human Resource Management) system designed as a
 3. Set up your MongoDB database.
 4. Start the development server with `npm start`.
 
-
-
+I am planing to deoploye this project
