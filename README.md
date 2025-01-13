@@ -40,4 +40,4 @@ This repository contains an HRM (Human Resource Management) system designed as a
 3. Set up your MongoDB database.
 4. Start the development server with `npm start`.
 
-I am planing to deoploye this project
+### I am planing to deoploye this project
